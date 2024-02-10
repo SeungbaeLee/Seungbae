@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 <h1 align = "center"> Welcome to my Github! </h1>
 <div align=center>
-	<h3>📚 Tech Stack 📚</h3>
+	<h3>📚 Tech Stack! 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
